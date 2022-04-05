@@ -9,7 +9,7 @@ function Login() {
     <h1>Login screen</h1>
     <div className="flex flex-col absolute z-50 h-4/6 w-full items-center justify-center space-y-4">
       <Image className="object-cover rounded-full"
-      src="https://links.papareact.com/3pi" width={150} height={150} />
+      src="https://variety.com/wp-content/uploads/2021/10/Guy-oseary-ape.jpg?w=1000" width={150} height={150} />
 
       <button onClick={authenticate} className="bg-yellow-500 rounded-lg p-5 font-bold animate-pulse">Login to the Metaverse</button>
     </div>

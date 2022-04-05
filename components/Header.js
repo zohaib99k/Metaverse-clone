@@ -16,7 +16,7 @@ function Header() {
         layout="fill"
         objectFit="cover"
         className="rounded-full"
-        src="https://links.papareact.com/3pi"
+        src="https://variety.com/wp-content/uploads/2021/10/Guy-oseary-ape.jpg?w=1000"
       />
     </div>
     <div className="col-span-4 text-left lg:text-center">
