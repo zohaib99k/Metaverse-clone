@@ -29,6 +29,10 @@ function Message ({ message }) {
       className={`text-[10px] italic text-gray-400
        ${isUserMessage && "order-first pr-1"}`}
        datetime={message.createdAt} />
+       {/* <TimeAgo
+      className={`text-[10px] italic text-gray-400
+       ${isUserMessage && "order-first pr-1"}`}
+       datetime={message.createdAt} /> */}
 
 <p
   className={`absolute -bottom-5 text-xs ${
